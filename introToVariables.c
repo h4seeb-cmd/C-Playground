@@ -12,7 +12,7 @@ int main(){
 
     // Initializing variables
     char name[] = "Spencer"; // make string as a "char" type but with brackets to indicate "list" of characters, or a string
-    int age = 25; // integers defined ass always
+    int age = 25; // integers defined as always
 
     // Printing story
     printf("------------------Using variables-----------------\n");
